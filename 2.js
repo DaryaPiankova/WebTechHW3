@@ -1,4 +1,4 @@
-let userName = prompt("Как можно к Вам обращаться?");
+const userName = prompt("Как можно к Вам обращаться?");
 greeting(userName)
 
 function greeting(name) {
